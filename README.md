@@ -9,10 +9,11 @@ Priscilla Jebraj, a journalist with The Hindu moderated the panel which comprise
 
 Here is material from the webinar:
 
-- [Video recording of the webinar is available](https://youtu.be/fPvhDOyUPc8).
-- [Anand's slides](slides-anand.pptx)
+- [Video recording of the webinar](https://youtu.be/fPvhDOyUPc8)
+- [Slides used by Anand](slides-anand.pptx)
 - [Transcript of the webinar](#transcript)
-- [Comments](#comments)
+- [Tools mentioned in the webinar](#tools)
+- [Comments in the chat](#comments)
 
 ## Transcript
 
@@ -75,7 +76,6 @@ Then there is another scenario I want to draw the attention of our participants 
 It is very attractive because you are able to reach out to learners at large. But it has a lot of challenges, especially because of the diversity, heterogeneity and the multidimensionality, and then, of course, the administrative challenges. Inevitably, as you move from this classroom to large-scale education, AI becomes the compelling tool or the compelling platform, I might say, along with your digital and edutainment tools.
 
 So apart from AI naturally disrupting a lot of areas, we can see that it is perhaps the indispensable tool as we go forward because we are making these big leaps, right?
-
 
 [![](img/0074.webp)](https://youtu.be/fPvhDOyUPc8?t=432)
 
@@ -187,7 +187,6 @@ I also use it a lot for research. The way I use it for research is with a little
 
 So I pick a topic - let's say I uploaded all of the papers related to biomolecules on arXiv. Then I ask a question like, "What are modern ways of computing protein folding structures?" (I'm spelling "protein" wrong, but that's all right. It's smart enough.) It identifies the most relevant papers, reads through those papers, summarizes the results for me, and also tells me which of these papers are interrelated.
 
-
 [![](img/0243.webp)](https://youtu.be/fPvhDOyUPc8?t=1446)
 
 So I can say, "Oh, are there some clusters of papers?" Okay, it looks like there is one big cluster of very related papers. And then there are some smaller clusters of other topics. So what is this particularly about? Summarize that and understand that, oh, this is about ensemble models around kinetic mechanisms, whatever that is.
@@ -224,7 +223,6 @@ Well, actually, it turns out that there are a few reasons why you would not use 
 
 Now, here's the thing. He's using a Punjabi-Hindi mixed with English. "Fat-on ko fat nahi bol sakte." Now, how on earth is an LLM supposed to translate that? But even otherwise, it did a pretty poor job of it. And we saw that for the translations of our material content as well.
 
-
 [![](img/0287.webp)](https://youtu.be/fPvhDOyUPc8?t=1710)
 
 But at this point, I must reiterate something that Ethan Mollick, who's a professor who teaches LLMs, emphasizes. He says, "LLMs are moving forward very rapidly. What today is not possible will very soon become possible. So maintain an impossibility list."
@@ -234,7 +232,6 @@ Try out a whole bunch of things. List down all the things an LLM cannot do today
 That's back to you, Priscilla.
 
 [![](img/0295.webp)](https://youtu.be/fPvhDOyUPc8?t=1758)
-
 
 **Priscilla**: Thank you. That was providing some really practical, helpful ideas to start using and, as you said, to use it continuously in regular life so that you are ready to use it for education. We've got a bunch of students and teachers, I don't know who all are, who are asking questions. One starts with: What is the full form of LLM? Could you tell us what is an LLM? LLM stands for large language model, but how does that actually work? What is it? Anand, could you take that?
 
@@ -262,10 +259,9 @@ So these things keep changing. We will have to go and ask, should I redefine my 
 
 Let's move a minute away from campus education to Anand. There's a question from Krishna KK who asked, how can a company building learning technology products leverage generative AI? That can go to both of you. It was asked to Anand, but really, I think I can get answers from both of you for that.
 
-**Prof. Arun**: It is more into *his* syllabus.
+**Prof. Arun**: It is more into _his_ syllabus.
 
 **Priscilla**: I only thought because you are, of course, creating content for Swayam Prabha. So I thought, you know, you could provide some perspective on that.
-
 
 [![](img/0357.webp)](https://youtu.be/fPvhDOyUPc8?t=2130)
 
@@ -283,18 +279,17 @@ As an example, when calculators are allowed, let's say in undergrad, all univers
 
 [![](img/0390.webp)](https://youtu.be/fPvhDOyUPc8?t=2328)
 
-
-**Prof Arun**: I think I've already kind of answered earlier. If you have a course that is meant for training students in critical thinking, then go ahead and define the outcomes. You can use ChatGPT. Critical thinking is a very, very important future skill, according to a lot of surveys that have come up. And that is where the human brain, human intelligence, at least supersedes AI as of today. Use them as tools and say, "Look, feel free to use ChatGPT for troubleshooting. Feel free to use ChatGPT for consulting the possibilities because it can skim through a lot of possibilities and give you options." One thing that it cannot do as of now is being creative and being able to see some scenarios that it has not seen. You have heard Anand saying earlier, LLMs are trained on what they have seen, but they cannot imagine new scenarios, right? Not necessarily as of today. I'll be very cautious because I will go by what the history of LLMs and what Anand said.
+**Prof. Arun**: I think I've already kind of answered earlier. If you have a course that is meant for training students in critical thinking, then go ahead and define the outcomes. You can use ChatGPT. Critical thinking is a very, very important future skill, according to a lot of surveys that have come up. And that is where the human brain, human intelligence, at least supersedes AI as of today. Use them as tools and say, "Look, feel free to use ChatGPT for troubleshooting. Feel free to use ChatGPT for consulting the possibilities because it can skim through a lot of possibilities and give you options." One thing that it cannot do as of now is being creative and being able to see some scenarios that it has not seen. You have heard Anand saying earlier, LLMs are trained on what they have seen, but they cannot imagine new scenarios, right? Not necessarily as of today. I'll be very cautious because I will go by what the history of LLMs and what Anand said.
 
 We may say something is not possible today; a few months later, it may be violated. So go ahead and offer a course on critical thinking. Exactly how it should be designed entirely depends on your goals. But the only challenge is now for the teacher to come up with questions that are beyond the reach of ChatGPT. And that's where I think teachers are being challenged today. And that's fine. I think we have to be challenged. I keep saying that if street vendors, everybody has switched over to UPI in India, right? They have realigned themselves, a lot of them. Then teachers should also realign. Everybody needs to realign from time to time. And yes, either we realign or we resign. One of these. A lot of changes ahead.
 
 **Priscilla**: Let's move on to the next question. So Mahbub Basha Sheikh asks, how can we leverage AI effectively while ensuring that it does not diminish human intellect? A related, I mean, sort of related question. I saw somebody asking, Apraneet VSS asks, what does AI have to do with the mass layoffs that are taking place. So whether these are students or teachers looking ahead to careers, can we consider both of those?
 
-**Prof Arun**: I read this somewhere very recently that AI is not going to take away jobs of people. It's, of course, going to take away jobs if you do not know how to use these modern tools, right? Number one. And if you have the same skills as these AI tools have. So obviously one needs a new set of skills, and there is going to be a displacement, but it's not going to be a complete layoff kind of thing. I think every milestone change in the last few centuries has brought about displacements. I mean, people used to drive tongas earlier. When automobiles came in, they had to learn how to use automobiles. If you refuse to learn and say, "I'll only drive a tonga," then of course you'll be jobless. There is no doubt about it. That's one answer to layoffs.
+**Prof. Arun**: I read this somewhere very recently that AI is not going to take away jobs of people. It's, of course, going to take away jobs if you do not know how to use these modern tools, right? Number one. And if you have the same skills as these AI tools have. So obviously one needs a new set of skills, and there is going to be a displacement, but it's not going to be a complete layoff kind of thing. I think every milestone change in the last few centuries has brought about displacements. I mean, people used to drive tongas earlier. When automobiles came in, they had to learn how to use automobiles. If you refuse to learn and say, "I'll only drive a tonga," then of course you'll be jobless. There is no doubt about it. That's one answer to layoffs.
 
 **Anand**: I thought you were going to quote another one where they say, "AI doesn't steal your job. It's the other guy who's using AI that's stealing your job." So you may as well be the other guy.
 
-**Prof Arun**: Correct. Absolutely. And a bit about diminishing intellect. Yeah. So I don't think human intellect diminishes. In fact, if you pay attention to what both Anand and I have been saying, we have to come up with new skills. That is, now we have to explore new areas, arenas of our intellect, which is in asking, which is in verifying, validating, which means now that we have to dip into new or you can say advanced areas. So AI is in fact pushing us to explore other areas of our intellect, which we have not explored or which we have been either lazy or never felt the need to.
+**Prof. Arun**: Correct. Absolutely. And a bit about diminishing intellect. Yeah. So I don't think human intellect diminishes. In fact, if you pay attention to what both Anand and I have been saying, we have to come up with new skills. That is, now we have to explore new areas, arenas of our intellect, which is in asking, which is in verifying, validating, which means now that we have to dip into new or you can say advanced areas. So AI is in fact pushing us to explore other areas of our intellect, which we have not explored or which we have been either lazy or never felt the need to.
 
 So we will always be kept busy. There is no way this world has been created where we become completely idle. It is just that new intellectual skills have to be focused on. And yes, so that you will rise with the technology. I mean, people didn't know how to use a computer before, but now you know how to intellectually also handle a computer. Right. And, you know, all the way from so-called ad hoc solutions to everything. Now we have figured out. So human intellect will not go away anywhere. It is just the tasks that you have been focusing on are changing. So there is no way of human intellect diminishing. It is just a perceptive fear. That is very natural. Anand, do you want to add to that about the fear of human intellect?
 
@@ -336,9 +331,7 @@ So it can really do a very wrong job so you have to be still focused but it will
 
 There's a question from a school student. I'm not sure if I'm pronouncing the name right. Who says for school students like us who are studying at Kendriya Vidyalaya, we have been given books and advice to read about AI, but how to learn how to use it for day-to-day activities. I think largely, what would you suggest for a school student?
 
-
 [![](img/0522.webp)](https://youtu.be/fPvhDOyUPc8?t=3120)
-
 
 **Anand**: Use it for day-to-day activities.
 
@@ -362,11 +355,11 @@ So what Anand was talking about is the technical set of possibilities for which 
 
 **Priscilla**: Thank you, sir, for bringing in those safeguards as well.
 
-Prof. Arun: Yeah, yeah, absolutely. The concerns about, and these are emerging concerns because it's emerging technology, so I'm sure we will continue to discover these. Because also data privacy is a concern. See, that is another issue, right? When we ask and so on and you tell the LLM it is wrong, no, this is what I am feeling and so on, it becomes data to the LLM and anybody can hack it. LLM may not use it, but somebody who has access to LLM can hack that and steal your data.
+**Prof. Arun**: Yeah, yeah, absolutely. The concerns about, and these are emerging concerns because it's emerging technology, so I'm sure we will continue to discover these. Because also data privacy is a concern. See, that is another issue, right? When we ask and so on and you tell the LLM it is wrong, no, this is what I am feeling and so on, it becomes data to the LLM and anybody can hack it. LLM may not use it, but somebody who has access to LLM can hack that and steal your data.
 
 **Priscilla**: So when I ask a question, is that saved as, you know, something to do with me?
 
-Prof. Arun: Asking a question, yes, is okay. But does, is your question going invisibly with all the other tags that who you are, what is your background, what is your age, gender and all of that, then that's the threshold that people, hackers are looking for.
+**Prof. Arun**: Asking a question, yes, is okay. But does, is your question going invisibly with all the other tags that who you are, what is your background, what is your age, gender and all of that, then that's the threshold that people, hackers are looking for.
 
 **Priscilla**: Right. We will keep that in mind. We have a question from K. Balasubramanian Kumar, who says, "As Anand sir pointed out, the Claude and Meta AI produces a seamless business model for youngsters who aspire to build their career. Can you kindly talk about these business models?"
 
@@ -392,12 +385,11 @@ There are all these questions that need to be answered and therefore I'm not sur
 
 So that's one dimension. The other is, there is the India AI mission, for instance, which is a March 2024 initiative or a national level mission to strengthen the overall AI ecosystem in India. There is a regulatory ecosystem that the Indian government is talking about, but hasn't yet come out with.
 
-And there are initiatives around, for instance, Model Bench is a benchmark. And this is probably the closest that comes to this question. So it's an evaluation framework. You take a model and you apply Model Bench to it, it will tell you how well a given model adheres to the ethical standards in Indian society. Now, training to match that is the next step. It may have happened. I'm not aware of it, but it's in the early stages.
+And there are initiatives around, for instance, Moral Bench is a benchmark. And this is probably the closest that comes to this question. So it's an evaluation framework. You take a model and you apply Moral Bench to it, it will tell you how well a given model adheres to the ethical standards in Indian society. Now, training to match that is the next step. It may have happened. I'm not aware of it, but it's in the early stages.
 
 Once again, I don't know this answer. I'm just reading from ChatGPT.
 
 [![](img/0639.webp)](https://youtu.be/fPvhDOyUPc8?t=3822)
-
 
 **Priscilla**: Okay, we're still not sure whether to believe you, but we're going to end now. You can go back and check that, those of you who are fact-checking here, whether with ChatGPT asking further questions or asking for other tools and other apps.
 
@@ -411,6 +403,22 @@ For those of you whose questions we could not reach, we will try and get to that
 
 [![](img/0648.webp)](https://youtu.be/fPvhDOyUPc8?t=3876)
 
+## Tools
+
+- [NotebookLM (by Google)](https://notebooklm.google.com/) – For creating summaries, podcasts, FAQs, study guides, etc.
+- [ChatGPT](https://chatgpt.com/) – For conversational AI, creating presentations, research, etc.
+- [ChatGPT's Advanced Voice Mode](https://help.openai.com/en/articles/8400625-voice-mode-faq) - For voice conversations.
+- [Gemini](https://gemini.google.com/) – A conversational AI from Google.
+- [DocSearch](https://gramener.com/docsearch/biomoleculepapers/) - A demo of how researchers can use LLMs to search through scientific papers.
+- [Claude.ai](https://claude.ai/) – Offers interactive tutoring, code artifacts, and other features.
+- [Reveal.js](https://revealjs.com/) – Used to create presentation slide decks through LLM-generated content.
+- [Whisper](https://whisper.com/) – An open-source model for audio-to-text transcription.
+- [Meta AI (LLAMA)](https://www.meta.ai/) – An open-weights model available on WhatsApp.
+- [Perplexity](https://www.perplexity.com/) – An AI tool for search with detailed, cited answers.
+- [Phind](https://www.phind.com/) – A tool for code-related searches and programming support.
+- [Cursor](https://www.cursor.com/) – An AI code editor that enhances coding productivity.
+- [Zoom's AI Assistant](https://www.zoom.com/en/ai-assistant/) – For summarizing meeting discussions in Zoom.
+- [Moral Bench](https://arxiv.org/html/2406.04428v1) – An evaluation framework to test model adherence to ethical standards.
 
 ## Comments
 
@@ -419,17 +427,17 @@ For those of you whose questions we could not reach, we will try and get to that
 - 04:07 PM **Harsh Kishor Pandey**: Hello everyone 👋
 - 04:07 PM **Venkatesan Lakshminarasimhan**: Excellent idea
 - 04:16 PM **Sahil Bishnoi**: Brilliant idea to engage and enlight new commers
-- 04:17 PM **Mithun  Krishna**: Interest to know
-- 04:29 PM **Eldho  Joy**: Timely and relevant
-- 04:41 PM **Saurabh Kumar  Kumar**: When will the webinar go live
+- 04:17 PM **Mithun Krishna**: Interest to know
+- 04:29 PM **Eldho Joy**: Timely and relevant
+- 04:41 PM **Saurabh Kumar Kumar**: When will the webinar go live
 - 04:46 PM **pk ..**: May at 5.00
-- 04:46 PM **pk ..**: maybe*
+- 04:46 PM **pk ..**: maybe\*
 - 04:50 PM **KALYANAKRISHNAN KUMARASAMY**: good eve sir
 - 04:50 PM **VISHAL ARYA**: Excitement webinar in digital Innovation
 - 04:51 PM **Jensila Smile**: Good Evening
 - 04:52 PM **Priyadharshini P**: Good evening sir
-- 04:53 PM **Rounak  Bairagya**: Hello
-- 04:53 PM **Shanmuka priya  Inbasekar**: Good evening sir
+- 04:53 PM **Rounak Bairagya**: Hello
+- 04:53 PM **Shanmuka priya Inbasekar**: Good evening sir
 - 04:53 PM **ADATISH DARADE**: Good Evening everyone
 - 04:53 PM **REUBAN G**: I am waiting
 - 04:54 PM **Dr. Sanhita Kundu**: Good evening, Sirs.
@@ -443,52 +451,52 @@ For those of you whose questions we could not reach, we will try and get to that
 - 04:58 PM **Hi T**: Hi
 - 04:58 PM **Sankar C**: Good Evening to all
 - 04:58 PM **Dr. R. Uma rani Rani**: Good evening to all
-- 04:59 PM **Gulshan  Kumar**: Good evening sir
+- 04:59 PM **Gulshan Kumar**: Good evening sir
 - 04:59 PM **Aditi Mishra**: Good evening sir
 - 04:59 PM **Samiksha Rawat**: good evening everyone
 - 04:59 PM **Balasudaram N A**: HALLO
-- 04:59 PM **Nidhi  Singh**: Good evening everyone
+- 04:59 PM **Nidhi Singh**: Good evening everyone
 - 04:59 PM **Saurabh Dudhe**: good evening guys
-- 04:59 PM **Karthikeyeni  S**: Good evening all
+- 04:59 PM **Karthikeyeni S**: Good evening all
 - 04:59 PM **Balasudaram N A**: GOOD EVENING
 - 05:00 PM **Sivakumar S**: Good evening ALL
 - 05:00 PM **Saravanan Chennappan**: Good Evening Everybody!
 - 05:00 PM **Nainar P**: Good Evening ALl
-- 05:00 PM **Yodhitha  Naagilla**: Timeup
-- 05:00 PM **Balakrishnan  Raja**: Good Evening to all
+- 05:00 PM **Yodhitha Naagilla**: Timeup
+- 05:00 PM **Balakrishnan Raja**: Good Evening to all
 - 05:00 PM **Venkata Venu**: Good evening
 - 05:00 PM **Navya ST**: Good evening
 - 05:01 PM **Afzal Mohideen**: Good Evening all
 - 05:01 PM **M CH Veera Manikanta**: Good Evening
 - 05:01 PM **Prasad V**: gdevng
 - 05:01 PM **Navneet Kaushik**: Do we need to refresh ?
-- 05:01 PM **Balakrishnan  Raja**: It is a must to know by everyone
+- 05:01 PM **Balakrishnan Raja**: It is a must to know by everyone
 - 05:01 PM **Deepshree Khanna**: Gdeve
 - 05:01 PM **VISHAL ARYA**: Webinar isn't streaming
 - 05:01 PM **Balakrishnan A**: Good Evening All
 - 05:01 PM **VISHAL ARYA**: time is going up
 - 05:02 PM **ZUBER KHAN**: Happy learning evening to all
-- 05:02 PM **Abdul  Rahman**: Did it start
-- 05:02 PM **Kanak  Sharma**: Hi, could you please suggest How may I join it with my laptop or computer without having whatsapp
+- 05:02 PM **Abdul Rahman**: Did it start
+- 05:02 PM **Kanak Sharma**: Hi, could you please suggest How may I join it with my laptop or computer without having whatsapp
 - 05:02 PM **Palani B**: Webinar isn't streaming😍1
-- 05:02 PM **Kanak  Sharma**: No streaming
-- 05:02 PM **Navneet  Kaushik**: Refresh guys
-- 05:02 PM **Thiyagu  K**: live now
-- 05:02 PM **Dr. Deepathi  Sayam**: Sir, is the streaming started
-- 05:03 PM **Thiyagu  K**: yes
+- 05:02 PM **Kanak Sharma**: No streaming
+- 05:02 PM **Navneet Kaushik**: Refresh guys
+- 05:02 PM **Thiyagu K**: live now
+- 05:02 PM **Dr. Deepathi Sayam**: Sir, is the streaming started
+- 05:03 PM **Thiyagu K**: yes
 - 05:03 PM **BARANI M**: Refresh the page. Stream already started.
-- 05:04 PM **Krishna  Kumar**: Good evening for all three
+- 05:04 PM **Krishna Kumar**: Good evening for all three
 - 05:04 PM **The Hindu**: Thank you for joining us today!
-- 05:04 PM **Bhawna  Pandey**: Good morning to all of you
+- 05:04 PM **Bhawna Pandey**: Good morning to all of you
 - 05:05 PM **Chandru Jayaram**: Good evening sir
 - 05:05 PM **Krishna Teknoturf**: Interested to learn from Anand on the scope of using GenAI in learning and learning programs
-- 05:05 PM **Bhawna  Pandey**: Good evening sir
-- 05:06 PM **Sivakumar  Paramasivam**: Good evening Sir
+- 05:05 PM **Bhawna Pandey**: Good evening sir
+- 05:06 PM **Sivakumar Paramasivam**: Good evening Sir
 - 05:11 PM **pk ..**: Sir, is this presentation also created using AI? 😁
 - 05:11 PM **Hema Latha**: Good evening sir
-- 05:13 PM **Prem  Kumar**: 🔴 Hello sir,hii ma'am I'm prem, currently pursuing ba geography hons from DU , I'm targeting for upsc exam ,
-- 05:14 PM **Prem  Kumar**: Sir my question is that is ai may hamper this exam????
-- 05:14 PM **Saurabh  Kumar**: Pk so what's ur concern
+- 05:13 PM **Prem Kumar**: 🔴 Hello sir,hii ma'am I'm prem, currently pursuing ba geography hons from DU , I'm targeting for upsc exam ,
+- 05:14 PM **Prem Kumar**: Sir my question is that is ai may hamper this exam????
+- 05:14 PM **Saurabh Kumar**: Pk so what's ur concern
 - 05:16 PM **pk ..**: We can use AI, but somehow, AI makes us dumb in a way... information that we would search over, is now available without any effort, help is obviously appreciated, but we lost other many information in a way... AI is both good and bad for us...
 - 05:18 PM **ZUBER KHAN**: Thx a lot Arun sir
 - 05:18 PM **Atul Gaur**: Thank you Arun Sir
@@ -497,14 +505,14 @@ For those of you whose questions we could not reach, we will try and get to that
 - 05:19 PM **Sujatha Iyer**: Priscilla, you're on mute I guess?
 - 05:20 PM **Saksham Yadav**: what did i miss i am 20 min late oops
 - 05:20 PM **swamynathan k**: sir can you please zoom
-- 05:20 PM **Jagadeesha  N**: Good evening
+- 05:20 PM **Jagadeesha N**: Good evening
 - 05:22 AM **Onlyysaddam**: hello Everyone
 - 05:22 PM **Selva Pujith**: It most help to my career
 - 05:22 PM **Sujatha Iyer**: I am an Education (Cognition) researcher in the space of using AI "just right". Would love to ask a question at the end. Priscilla - please permit when the time is right.
 - 05:22 PM **Selva Pujith**: It is very best
 - 05:23 PM **Priscilla Jebaraj**: Please go ahead and post your question here, and we will put it to the panelists
 - 05:24 PM **swamynathan k**: CTRL is a AI movie
-- 05:25 PM **K Ganesan**: 🔴 Sir, is it possible for  a retail trader (w/o proficiency in coding) in stock market to use the ChatGbt or some other paid versions of ChatGbt in trading for prediction of stock prices using LLMs by feeding large historical data
+- 05:25 PM **K Ganesan**: 🔴 Sir, is it possible for a retail trader (w/o proficiency in coding) in stock market to use the ChatGbt or some other paid versions of ChatGbt in trading for prediction of stock prices using LLMs by feeding large historical data
 - 05:25 PM **Dibyendu Shekhar Das**: 🔴 Sir, please tell us the AI tools we should use.
 - 05:27 PM **pk ..**: I prepare for competition exams, it helps me in all the topics, specially, in current affairs.
 - 05:27 PM **Balram Singh**: 🔴 Sir most of the students in today's academia , do coding projects with the help of Chatgpt only, fix error use of chatgpt only, so how does it help in learning? It just make students dependent on Chatgpt
@@ -523,40 +531,40 @@ For those of you whose questions we could not reach, we will try and get to that
 - 05:31 PM **Krishna KK**: 🔴 @Anand S how can a company building learning tech product leverage GenAI ?👍1
 - 05:31 PM **Felix Arokiya Raj A.P.**: 🔴 How to create an teaching assistant in ChatGPT?
 - 05:31 PM **Vanitha Tekstac**: 🔴 Good evening. Specifically for coding, at what stage should students use AI tools like copilot, code whisperer etc 👍1
-- 05:31 PM **Bhoomika  Talreja**: 🔴 how can i make use of it in forecasting data
-- 05:31 PM **Sujatha  Iyer**: 🔴 I have two questions:
+- 05:31 PM **Bhoomika Talreja**: 🔴 how can i make use of it in forecasting data
+- 05:31 PM **Sujatha Iyer**: 🔴 I have two questions:
 - 05:31 PM **Deepshree Khanna**: 🔴 Can you please elaborate , how to use these tools for government examination of GoI, Please help me out on this👍🙌4
 - 05:32 PM **Jayrath Shinde**: 🔴 LLM can read but how does it understand or make sense of things?
-- 05:32 PM **Sukumar Palanisamy**: 🔴 LLM vs BERT  which one  Better??
+- 05:32 PM **Sukumar Palanisamy**: 🔴 LLM vs BERT which one Better??
 - 05:32 PM **Arun k**: 🔴 please recommend for edu tech teachers
 - 05:32 PM **Subhrajeet Dutta**: 🔴 What are the day to day ai tools like chatgpt which are must to use🙌1
 - 05:32 PM **A D**: 🔴 How to use AI for UPSC civil services as peer the changing pattern of exam ?👍4
 - 05:32 PM **Sai Prasad Mahesh**: 🔴 Sir one more question - How can we use AI to create games? Specifically battle royales?
-- 05:32 PM **B K S  Vardhini**: 🔴 Sir can we use chatgpt or LLM for research papers and PHD work
+- 05:32 PM **B K S Vardhini**: 🔴 Sir can we use chatgpt or LLM for research papers and PHD work
 - 05:33 PM **Atul Gaur**: 🔴 Sir, If we go on writing a research or a review paper, what are the things we should take care especially when we use AI?
 - 05:33 PM **M CH Veera Manikanta**: 🔴 Can we trust LLM's for summarizations.(does it really include all points?)
-- 05:33 PM **Sujatha  Iyer**: 🔴 1. What sort of critical thinking course would you offer where students learn counterfactual reasoning? Should students not be asked to speciallizrke DEEPLY so that they can verify the output of the LLM?
+- 05:33 PM **Sujatha Iyer**: 🔴 1. What sort of critical thinking course would you offer where students learn counterfactual reasoning? Should students not be asked to speciallizrke DEEPLY so that they can verify the output of the LLM?
 - 05:34 PM **Sam Rawat**: 🔴 sir in order to learn skills like Data Science sometimes we stuck in solving particular questions so is it okay to take help from this AI tools like ChatGPT? Does it help us?
-- 05:34 PM **Harshit  Pachorkar**: 🔴 Best LLM's
-- 05:34 PM **Swami K**: 🔴 Can I use a LLM  to build a better LLM ?
+- 05:34 PM **Harshit Pachorkar**: 🔴 Best LLM's
+- 05:34 PM **Swami K**: 🔴 Can I use a LLM to build a better LLM ?
 - 05:34 PM **Sai Prasad Mahesh**: 🔴 Sir one more question - How can we use AI to create games? Specifically battle royales?
 - 05:35 PM **Vijay Anandh**: 🔴 Sir kindly tell us where I can study AI ChatGPT for better performance from ppt presentation and etc
 - 05:35 PM **Atul Gaur**: 🔴 As a college student, which LLM (with their purpose) should I use for my daily learning apart from ChatGPT?
-- 05:35 PM **Sujatha  Iyer**: 🔴 2. For Anand: If one wanted to train a custom language model that has an Indian ethics system as opposed to a Kantian (Western) model, how would you suggest we go about it? Are there Indic systems being developed with this view?
-- 05:35 PM **Praneeth  Vss**: 🔴 What does AI have to do with the mass layoffs?
+- 05:35 PM **Sujatha Iyer**: 🔴 2. For Anand: If one wanted to train a custom language model that has an Indian ethics system as opposed to a Kantian (Western) model, how would you suggest we go about it? Are there Indic systems being developed with this view?
+- 05:35 PM **Praneeth Vss**: 🔴 What does AI have to do with the mass layoffs?
 - 05:35 PM **Deeksha Singh**: 🔴 How to find out if somebody is using chat gpt or some other AI tools for completion of assignments or research work?
 - 05:35 PM **Sai Prasad Mahesh**: 🔴 Sir one more question - How can we use AI to create games? Specifically battle royales?
 - 05:35 PM **SACHIN JAVAJI**: 🔴 hi, I have a question. Is there any proper method to give prompt to get specified result.?
 - 05:35 PM **Balram Singh**: Thank you sir
 - 05:35 PM **Ushma Desai**: 🔴 Sir, can you please elaborate more on your usage of chatGPT to evaluate students?
 - 05:35 PM **Arunkumar Jambunathan**: ChatGPT may cause memory loss
-- 05:35 PM **Mahaboob basha  shaik**: 🔴 How can we leverage AI effectively while ensuring that it does not diminish human intellect?
+- 05:35 PM **Mahaboob basha shaik**: 🔴 How can we leverage AI effectively while ensuring that it does not diminish human intellect?
 - 05:35 PM **Padma V**: LLM learns from the data that it gets.
 - 05:36 PM **Karan S**: .
 - 05:36 PM **Aishwarya Srihari**: 🔴 @Anand S , thank you simplifying the uses of AI! Could you name all the AIs that you spoke about in this session? Could you also talk about how a teacher can use character.ai to teach students in class?👍1
 - 05:36 PM **Srinivas Attaluri**: 🔴 How LLM and AI help in agriculture communication especially with farmers level in a country like for better transfer of technology in India where we have language barriers...
 - 05:37 PM **Dhanesh Vibhute**: 🔴 Sir, Ai could be a gamechanger in legal field as it could reduce the burden over the judiciary to manage cases, drafting case papers etc etc. how a law student can take out full potential of Ai ?
-- 05:37 PM **Padma V**: 🔴 How confidential would the data that we feed would be in LLM?  ChatGPT always says do not post information that you do not want to share. But it is very good at data analyses
+- 05:37 PM **Padma V**: 🔴 How confidential would the data that we feed would be in LLM? ChatGPT always says do not post information that you do not want to share. But it is very good at data analyses
 - 05:37 PM **Sai Prasad Mahesh**: 🔴 @Anand S Sir one more question - How can we use AI to create games? Specifically battle royales?
 - 05:37 PM **Salman Malik**: 🔴 How AI is related to BIM ( BUILDING INFORMATION MODELING)
 - 05:37 PM **Vallidevi Krishnamurthy**: 🔴 How can LLM be used for assessment sir
@@ -564,16 +572,16 @@ For those of you whose questions we could not reach, we will try and get to that
 - 05:37 PM **pk ..**: People now-a-days use chatGPT or any other AI tools to crack interviews in real time.
 - 05:38 PM **Aditi Mishra**: 🔴 How can I use AI to know my areas of improvement
 - 05:38 PM **Sukumar Palanisamy**: 🔴 How do you define learning outcomes for future students?
-- 05:38 PM **Sujatha  Iyer**: 🔴 Dr. Arun: I am repeating my question because I can't see it on this scrolling list of messages. Apologies if it shows up twice. The question is: to be truly able to evaluate the "goodness of output" of an LLM system, one already needs to know a fair bit already to troubleshoot and to ask the right counterfactuals or probing questions to the LLM, should we not have students learn a few topics even more DEEPLY then before than be generalists?
+- 05:38 PM **Sujatha Iyer**: 🔴 Dr. Arun: I am repeating my question because I can't see it on this scrolling list of messages. Apologies if it shows up twice. The question is: to be truly able to evaluate the "goodness of output" of an LLM system, one already needs to know a fair bit already to troubleshoot and to ask the right counterfactuals or probing questions to the LLM, should we not have students learn a few topics even more DEEPLY then before than be generalists?
 - 05:38 PM **VISHAL ARYA**: 🔴 Is AI or CHATGPT is some kind of application or software?
 - 05:39 PM **Parvin Yadav**: My children are doing all their projects using AI... I don't think they are doing justice to education
 - 05:39 PM **pk ..**: 🔴 Sir, AI is snatching jobs of many, will it be able to generate more jobs instead of snatching job?
 - 05:39 PM **Vijay Anandh**: 🔴 Is AI trying to remove the habitual habits of refering the books for their study?
 - 05:39 PM **VISHAL ARYA**: 🔴 Do i need to buy or purchase ai or chatgpt
 - 05:39 PM **Deeksha Singh**: 🔴 How can we learn practical use of these AI tools like chat gpt etc. Suggest some sites, courses for the same?
-- 05:40 PM **Praneeth  Vss**: 🔴 What does AI have to do with the mass layoffs that are taking place?
+- 05:40 PM **Praneeth Vss**: 🔴 What does AI have to do with the mass layoffs that are taking place?
 - 05:40 PM **Praveen Chitturi**: 🔴 Sir, for adults can you please suggest few sources to get the latest genuine information on the AI tools which can be used for my kid(7 years old) and also at workplace?
-- 05:40 PM **B K S  Vardhini**: 🔴 sir can we use chatgpt  for research
+- 05:40 PM **B K S Vardhini**: 🔴 sir can we use chatgpt for research
 - 05:41 PM **AVN Venkateswaran**: 🔴 other tools like chatgpt
 - 05:41 PM **Lekshmi Jayamohan**: 🔴 I find chatGPT and Gemini tend to make up titles of research papers(they do not exist) when I ask for those on a particular topic. Why is this so? Are there better options?
 - 05:41 PM **Sahal K**: 🔴 @Arun Tangirala Please tell about most advanced tools are you using now
@@ -583,27 +591,27 @@ For those of you whose questions we could not reach, we will try and get to that
 - 05:43 PM **Atul Gaur**: 🔴 What are the current limitations of AI that you think that we students should be aware of, and how can we best complement AI technologies with human creativity and human solving skills?🙌1
 - 05:43 PM **Krishna KK**: 🔴 with perplexity recently launching finance domain search couple of days back, what sort of products and companies are under severe threat ?
 - 05:44 PM **Sairang Tonde**: 🔴 what is the difference between the AI & Ultron...
-- 05:44 PM **Apeksha  Deore**: 🔴 Kindly elaborate about how chatgpt is impacting students in both school and College
-- 05:45 PM **Dr Manoj Kumar**: 🔴 Is it possible  to know from which source or reference , the AI has finally come to the answer for question raised. Also is their any other AI source through which  we can countercheck the genuinity of answers given through AI.
+- 05:44 PM **Apeksha Deore**: 🔴 Kindly elaborate about how chatgpt is impacting students in both school and College
+- 05:45 PM **Dr Manoj Kumar**: 🔴 Is it possible to know from which source or reference , the AI has finally come to the answer for question raised. Also is their any other AI source through which we can countercheck the genuinity of answers given through AI.
 - 05:45 PM **Shabeena Shah**: 🔴 How soon should the use of LLMs should be integrated in the school and college curriculum.
-- 05:45 PM **Jaganmohana  Rao**: 🔴 Dear sir, can you give some tips for how to give responsible prompt for AI?
+- 05:45 PM **Jaganmohana Rao**: 🔴 Dear sir, can you give some tips for how to give responsible prompt for AI?
 - 05:45 PM **Dhanesh Vibhute**: 🔴 Sir, Ai could be a gamechanger in legal field as it could reduce the burden over the judiciary to manage cases, drafting case papers etc etc. how a law student can take out full potential of Ai ?
 - 05:46 PM **Sai Prasad Mahesh**: @Sairang Tonde Ultron: A fictional AI villain created in the Marvel comics and films. Ultron is depicted as a sentient robot with a desire to eradicate humanity, believing it's the only way to achieve peace. He represents a cautionary tale about the dangers of advanced AI when it becomes self-aware and develops its own goals, often opposing its creators. In summary, general AI aims to support and improve human life, while Ultron embodies the potential threats of unchecked AI development. 😂1
 - 05:46 PM **Dibyendu Shekhar Das**: 🔴 Sirs, please tell ua names of AI tools other than ChatGPT.
 - 05:46 PM **Dinesh Dinesh.sn**: 🔴 What do you say about the future of human on ai dependence
 - 05:46 PM **Sheeba Joice C**: 🔴 Excellent response for the questions sir. Thank you
-- 05:46 PM **Gadiyaram  Aishwarya**: 🔴 Students themselves might suppress the thinking process just because there is some AI that makes the work easier. What do u think of it sir or mam?
+- 05:46 PM **Gadiyaram Aishwarya**: 🔴 Students themselves might suppress the thinking process just because there is some AI that makes the work easier. What do u think of it sir or mam?
 - 05:47 PM **Ashok Govindarajan**: 🔴 Dear Profs, I have a basic question : Can we say adaptive signal processing as one of the key aspects of machine learning? This question is related to the 3G cellular mobile stack"
 - 05:47 PM **Dr. Sanhita Kundu**: 🔴 Sirs, please tell us names of AI tools other than ChatGPT.
-- 05:47 PM **Ashok Govindarajan**: 🔴 There there were algos written compensate for  for the variation in the channel between the mobile and the base station was implemented usng LMS. An error vector was compueted and coefficients of filters were altered periodically to minimise the error. This was part of the 3G mobile stack in early 2000's. Your opinions, please
-- 05:47 PM **Kishore  B**: 🔴 Why is it harder to introduce AI into fields that don't require the intelligence of people, such as sanitation, transport, construction, etc., i.e., to perform mechanical actions compared to its contemporary usage?
-- 05:47 PM **THIMMAVAJJULA NIREEH**: 🔴 FOR SCHOOLS STUDENTS LIKE US WHO ARE STUDYING AT Kendriya vidyalaya we have been given books advised to read about AI.  HOW to learn how to use for day to day activities👍2
+- 05:47 PM **Ashok Govindarajan**: 🔴 There there were algos written compensate for for the variation in the channel between the mobile and the base station was implemented usng LMS. An error vector was compueted and coefficients of filters were altered periodically to minimise the error. This was part of the 3G mobile stack in early 2000's. Your opinions, please
+- 05:47 PM **Kishore B**: 🔴 Why is it harder to introduce AI into fields that don't require the intelligence of people, such as sanitation, transport, construction, etc., i.e., to perform mechanical actions compared to its contemporary usage?
+- 05:47 PM **THIMMAVAJJULA NIREEH**: 🔴 FOR SCHOOLS STUDENTS LIKE US WHO ARE STUDYING AT Kendriya vidyalaya we have been given books advised to read about AI. HOW to learn how to use for day to day activities👍2
 - 05:49 PM **K Ganesan**: Can I get the list posted in the chat, not able to follow the list
 - 05:49 PM **VISHAL ARYA**: plz look @ everyone query
 - 05:50 PM **Lekshmi Jayamohan**: Thank you sir
 - 05:50 PM **srinivas p penu**: 🔴 what is the basic skill required to use AI effectively?
 - 05:50 PM **VISHAL ARYA**: i have already made a query but you ignoring
-- 05:51 PM **Debanjali  Ghosh**: 🔴 At some point AI chat bots are affecting negatively, the learners problem solving ability. specially for mathematics learning it is a very impactful and harmful incident. They are not thinking and solving the problems by their own. And You can't say the learners to not using AI for learning purposes in this digital age....so in this case what measures can be taken?
+- 05:51 PM **Debanjali Ghosh**: 🔴 At some point AI chat bots are affecting negatively, the learners problem solving ability. specially for mathematics learning it is a very impactful and harmful incident. They are not thinking and solving the problems by their own. And You can't say the learners to not using AI for learning purposes in this digital age....so in this case what measures can be taken?
 - 05:51 PM **VISHAL ARYA**: if you will continue with this behave i am leaving
 - 05:51 PM **Salman Malik**: 🔴 How AI Is related to BIM In Architecture, Engineering & Construction feild Industry
 - 05:51 PM **Jose Swan**: 🔴 @Arun Tangirala Can you summarise this session using an Ai
@@ -619,34 +627,34 @@ For those of you whose questions we could not reach, we will try and get to that
 - 05:54 PM **Saurav Agarwal**: 🔴 Would AI be impactful in Quantum Computing?
 - 05:55 PM **Saravanan Chennappan**: Good Session!
 - 05:56 PM **ABHIJITH M**: Had a good session. It was very informative
-- 05:56 PM **Mohanarangam  Rajalakshmi**: As a parent how can I use this to help my daughter in her studies
-- 05:56 PM **Ramya  Murugan**: As a school management if I have to introduce AI into the school for teachers and students. how do I go about it? What is the course of action ? Considering all are beginners
+- 05:56 PM **Mohanarangam Rajalakshmi**: As a parent how can I use this to help my daughter in her studies
+- 05:56 PM **Ramya Murugan**: As a school management if I have to introduce AI into the school for teachers and students. how do I go about it? What is the course of action ? Considering all are beginners
 - 05:56 PM **Sujatha Iyer**: For Anand:
 - 05:56 PM **Vijay Anandh**: 🔴 Do you think AI is taking away the critical thinking of humans ?
 - 05:56 PM **Sukumar Palanisamy**: 🔴 What are some effective strategies for defining learning outcomes that truly engage and benefit future students?
 - 05:57 PM **Sujatha Iyer**: 🔴 Any Indic ethics trained model that can be tried out?
-- 05:59 PM **Utkarsh  Mishra**: 🔴 Sir how can we use AI to crack conp
+- 05:59 PM **Utkarsh Mishra**: 🔴 Sir how can we use AI to crack conp
 - 06:00 PM **Mohamed Abuthaeer**: 🔴 sir i know to use ai but how can i utilise it more and enhance my knowledge with the help of the ai
 - 06:00 PM **A. SENTHIL**: 🔴 sir, i like to convert theoritical concept into Animation , kindly suggest some AI tool. sir, i try it using claude but unable to extract or save and download it
 - 06:00 PM **S. dass**: Useful webinar
-- 06:00 PM **Utkarsh  Mishra**: 🔴 How can we use AI to crack government exams
+- 06:00 PM **Utkarsh Mishra**: 🔴 How can we use AI to crack government exams
 - 06:00 PM **Aarthi Narasimhan**: 🔴 How to make the students to think out of the box especially AI? If they were asked to sum up a topic they rely on Meta or AI, kindly suggest a method to prevent this sir?
 - 06:00 PM **Sai Prasad Mahesh**: 🔴 @Anand S Sir one more question - How can we use AI to create games? Specifically battle royales?
-- 06:00 PM **Mohamed  Suhail**: 🔴 Sir , how can we analyse data with AI
+- 06:00 PM **Mohamed Suhail**: 🔴 Sir , how can we analyse data with AI
 - 06:01 PM **Mohammed Abdul Qayyum**: 🔴 Recently a team of innovators who worked in google recently won Nobel Prize for using AI for predicting protein and RNA structure using AI. My question is how reliable will be in research when this kind of methodology becomes common in research .
 - 06:01 PM **Parvin Yadav**: 🔴 Don't you think that AI has started restricting novel thinking of students using AI for resolving their issues.
 - 06:02 PM **Sai Prasad Mahesh**: 🔴 @Anand S Sir one more question - How can we use AI to create games? Specifically battle royales?
-- 06:02 PM **Faizan  Shami**: 🔴 sir can you plz give me some tools for maths and sciece problems as a student.
+- 06:02 PM **Faizan Shami**: 🔴 sir can you plz give me some tools for maths and sciece problems as a student.
 - 06:02 PM **Shamin M**: Great Session! Looking for more like this. Thank you all. Special thanks to The Hindu.
 - 06:02 PM **Mohammed Abdul Qayyum**: 🔴 Recently a team of innovators who worked in google recently won Nobel Prize for using AI for predicting protein and RNA structure using AI. My question is how reliable will AI be in research when this kind of methodology becomes common in research .
-- 06:02 PM **narasimha  CHARI**: 🔴 what are challenges and limitations of AI in using in education process
-- 06:04 PM **Faizan  Shami**: 🔴 sir can you plz give me some tools for maths and science problems as a student.
+- 06:02 PM **narasimha CHARI**: 🔴 what are challenges and limitations of AI in using in education process
+- 06:04 PM **Faizan Shami**: 🔴 sir can you plz give me some tools for maths and science problems as a student.
 - 06:05 PM **s d**: crazy yeah
 - 06:05 PM **lavanya -**: great class
 - 06:05 PM **s d**: thank u sir
 - 06:05 PM **Sujatha Iyer**: MoralBench: superb recommendation. Thank you, Anand!
 - 06:05 PM **Sujatha Iyer**: LoL!!!
-- 06:05 PM **narasimha  CHARI**: thank you
+- 06:05 PM **narasimha CHARI**: thank you
 - 06:05 PM **Govind S**: thank you
 - 06:05 PM **Sindhu m**: We should have more of such webinars Thank you
 - 06:05 PM **Aarthi Narasimhan**: Thank you All
@@ -654,7 +662,7 @@ For those of you whose questions we could not reach, we will try and get to that
 - 06:05 PM **Praveen Chitturi**: Thanks a lot for your knowledge sharing on AI topic. Thanks a lot.
 - 06:05 PM **A. SENTHIL**: Thank you All
 - 06:05 PM **Balasudaram N A**: THANK YOU
-- 06:05 PM **B K S  Vardhini**: Anand sir IS FUNNY
+- 06:05 PM **B K S Vardhini**: Anand sir IS FUNNY
 - 06:05 PM **Mohammed Abdul Qayyum**: When will be the next webinar
 - 06:05 PM **Sujatha Iyer**: Priscilla - useful discussion. Thank you!
 - 06:05 PM **Sasank Pradhan**: Thank you
@@ -662,8 +670,8 @@ For those of you whose questions we could not reach, we will try and get to that
 - 06:06 PM **Atul Gaur**: Thank you so much Professors
 - 06:06 PM **Sriram Ramamurthy**: Is there anyway to catch up with this chat from the beginning if I missed the first several minutes of it👍1
 - 06:07 PM **satya dinda**: Thank you sir and Madam
-- 06:07 PM **Balakrishnan  Raja**: E
-- 06:08 PM **Balakrishnan  Raja**: Best Encouraging Video. Thank you The HinduGroup
+- 06:07 PM **Balakrishnan Raja**: E
+- 06:08 PM **Balakrishnan Raja**: Best Encouraging Video. Thank you The HinduGroup
 - 06:09 PM **A S**: Kindly share the list of AI tools that Anand & Arun mentioned in the webinar. Kindly email it to participants.
 - 06:10 PM **Rithika Ahri D.**: Session was good
 - 06:13 PM **THIMMAVAJJULA NIREEH**: Thank you Sirs. I will take parental guidance.
