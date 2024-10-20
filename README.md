@@ -13,6 +13,7 @@ Here is material from the webinar:
 - [Slides used by Anand](slides-anand.pptx)
 - [Transcript of the webinar](#transcript)
 - [Tools mentioned in the webinar](#tools)
+- [Questions asked in the chat](#questions)
 - [Comments in the chat](#comments)
 
 ## Transcript
@@ -419,6 +420,125 @@ For those of you whose questions we could not reach, we will try and get to that
 - [Cursor](https://www.cursor.com/) – An AI code editor that enhances coding productivity.
 - [Zoom's AI Assistant](https://www.zoom.com/en/ai-assistant/) – For summarizing meeting discussions in Zoom.
 - [Moral Bench](https://arxiv.org/html/2406.04428v1) – An evaluation framework to test model adherence to ethical standards.
+
+## Questions
+
+These questions were extracted from the chat comments.
+
+### About LLMs
+
+- What is an LLM?
+  - sir what is the full form of llm?
+  - what is the difference between the AI & Ultron...
+- Where can I learn more about AI and ChatGPT?
+  - Do i need to buy or purchase ai or chatgpt
+  - Sir kindly tell us where I can study AI ChatGPT for better performance from ppt presentation and etc
+- What are other tools like ChatGPT?
+  - @Arun Tangirala Please tell about most advanced tools are you using now
+  - How can we learn practical use of these AI tools like chat gpt etc. Suggest some sites, courses for the same?
+  - How to create an teaching assistant in ChatGPT?
+  - I find chatGPT and Gemini tend to make up titles of research papers(they do not exist) when I ask for those on a particular topic. Why is this so? Are there better options?
+  - Is AI or CHATGPT is some kind of application or software?
+  - please recommend for edu tech teachers
+  - sir in order to learn skills like Data Science sometimes we stuck in solving particular questions so is it okay to take help from this AI tools like ChatGPT? Does it help us?
+  - Sir, for adults can you please suggest few sources to get the latest genuine information on the AI tools which can be used for my kid(7 years old) and also at workplace?
+  - sir, i like to convert theoritical concept into Animation , kindly suggest some AI tool. sir, i try it using claude but unable to extract or save and download it
+  - Sirs, please tell ua names of AI tools other than ChatGPT.
+  - What are the day to day ai tools like chatgpt which are must to use🙌1
+- How to effectively use prompts with LLMs?
+  - Anand Sir Please recommend the books on prompt engineering
+  - Dear sir, can you give some tips for how to give responsible prompt for AI?
+  - hi, I have a question. Is there any proper method to give prompt to get specified result.?
+- How can I use AI to improve myself?
+  - How can I use AI to know my areas of improvement
+  - sir i know to use ai but how can i utilise it more and enhance my knowledge with the help of the ai
+
+### About AI in Education
+
+- How can students leverage AI without diminishing their creativity?
+  - @Anand S , thank you simplifying the uses of AI! Could you name all the AIs that you spoke about in this session? Could you also talk about how a teacher can use character.ai to teach students in
+  - Can we not ask the AI to generate worksheets for say "quadratic equations" ...this might be a better use case for students
+  - FOR SCHOOLS STUDENTS LIKE US WHO ARE STUDYING AT Kendriya vidyalaya we have been given books advised to read about AI. HOW to learn how to use for day to day activities👍2
+  - Good evening. Specifically for coding, at what stage should students use AI tools like copilot, code whisperer etc 👍1
+  - How can we leverage AI effectively while ensuring that it does not diminish human intellect?
+  - How to make the students to think out of the box especially AI? If they were asked to sum up a topic they rely on Meta or AI, kindly suggest a method to prevent this sir?
+  - Is AI trying to remove the habitual habits of refering the books for their study?
+  - pl. eloberate in which areas how students of PGDM, UG, pl. eloberate in which areas how students of PGDM, UG, PG can use AI without killing their unexplored natural creative talents. and how AI can be
+  - what are challenges and limitations of AI in using in education process
+  - What are the current limitations of AI that you think that we students should be aware of, and how can we best complement AI technologies with human creativity and human solving skills?🙌1
+  - what is the basic skill required to use AI effectively?
+- How does AI affect students' critical thinking and problem-solving skills?
+  - What sort of critical thinking course would you offer where students learn counterfactual reasoning? Should students not be asked to speciallizrke DEEPLY so that they can verify the output of the LLM?
+  - At some point AI chat bots are affecting negatively, the learners problem solving ability. specially for mathematics learning it is a very impactful and harmful incident. They are not thinking and
+  - Do you think AI is taking away the critical thinking of humans ?
+  - Don't you think that AI has started restricting novel thinking of students using AI for resolving their issues.
+  - Students themselves might suppress the thinking process just because there is some AI that makes the work easier. What do u think of it sir or mam?
+  - to be truly able to evaluate the "goodness of output" of an LLM system, one already #needs to know a fair bit already to troubleshoot and to ask the right counterfactuals or probing questions to the LLM, should we not have students learn a few topics even more DEEPLY then before than be generalists?
+- How is ChatGPT impacting students' learning?
+  - Kindly elaborate about how chatgpt is impacting students in both school and College
+  - Sir most of the students in today's academia , do coding projects with the help of Chatgpt only, fix error use of chatgpt only, so how does it help in learning? It just make students dependent on Chatgpt
+  - Sir, can you please elaborate more on your usage of chatGPT to evaluate students?
+- How should LLMs be integrated into education?
+  - How can LLM be used for assessment sir
+  - How soon should the use of LLMs should be integrated in the school and college curriculum.
+- How to define learning outcomes for future students?
+  - How do you define learning outcomes for future students?
+  - What are some effective strategies for defining learning outcomes that truly engage and benefit future students?
+- How reliable is AI in research?
+  - Can we trust LLM's for summarizations.(does it really include all points?)
+  - Is it possible to know from which source or reference , the AI has finally come to the answer for question raised. Also is their any other AI source through which we can countercheck the genuinity of
+  - Recently a team of innovators who worked in google recently won Nobel Prize for using AI for predicting protein and RNA structure using AI. My question is how reliable will be in research when
+  - Sir can we use chatgpt or LLM for research papers and PHD work
+  - Sir, If we go on writing a research or a review paper, what are the things we should take care especially when we use AI?
+  - Would AI be impactful in Quantum Computing?
+- What LLMs should college students use for learning?
+  - As a college student, which LLM (with their purpose) should I use for my daily learning apart from ChatGPT?
+  - Best LLM's
+  - LLM vs BERT which one Better??
+  - sir can you plz give me some tools for maths and science problems as a student.
+- How do we detect use of AI in student work?
+  - How to find out if somebody is using chat gpt or some other AI tools for completion of assignments or research work?
+
+### About AI in Business
+
+- How does AI impact businesses?
+  - @Anand S how can a company building learning tech product leverage GenAI ?👍1
+  - Can I use a LLM to build a better LLM ?
+  - Why is it harder to introduce AI into fields that don't require the intelligence of people, such as sanitation, transport, construction, etc., i.e., to perform mechanical actions compared to its contemporary
+  - with perplexity recently launching finance domain search couple of days back, what sort of products and companies are under severe threat ?
+- How does AI impact jobs?
+  - Sir, AI is snatching jobs of many, will it be able to generate more jobs instead of snatching job?
+  - What does AI have to do with the mass layoffs that are taking place?
+- Can AI be used for stock market prediction?
+  - Sir, is it possible for a retail trader (w/o proficiency in coding) in stock market to use the ChatGbt or some other paid versions of ChatGbt in trading for prediction of stock prices using LLMs by feeding
+- How can AI be used for government exams?
+  - Can you please elaborate , how to use these tools for government examination of GoI, Please help me out on this👍🙌4
+  - Hello sir,hii ma'am I'm prem, currently pursuing ba geography hons from DU , I'm targeting for upsc exam ,
+  - How can we use AI to crack government exams
+  - How to use AI for UPSC civil services as peer the changing pattern of exam ?👍4
+  - Sir how can we use AI to crack conp
+  - Upto what extent will it be safe and ethical to use AI in Civil services preparation?
+- How can AI be used in data forecasting?
+  - how can i make use of it in forecasting data
+  - Sir , how can we analyse data with AI
+- How can law students and farmers use AI?
+  - Sir, Ai could be a gamechanger in legal field as it could reduce the burden over the judiciary to manage cases, drafting case papers etc etc. how a law student can take out full potential of Ai ?
+- How is adaptive signal processing related to machine learning?
+  - Dear Profs, I have a basic question : Can we say adaptive signal processing as one of the key aspects of machine learning? This question is related to the 3G cellular mobile stack"
+  - There there were algos written compensate for for the variation in the channel between the mobile and the base station was implemented usng LMS. An error vector was compueted and coefficients of
+- How is AI related to BIM?
+  - How AI Is related to BIM (BUILDING INFORMATION MODELING) in Architecture, Engineering & Construction feild Industry
+
+### About Responsible AI
+
+- How confidential is data used in LLMs?
+  - How confidential would the data that we feed would be in LLM? ChatGPT always says do not post information that you do not want to share. But it is very good at data analyses
+- Are there any Indic ethics trained models?
+  - For Anand: If one wanted to train a custom language model that has an Indian ethics system as opposed to a Kantian (Western) model, how would you suggest we go about it? Are there Indic systems being
+  - Any Indic ethics trained model that can be tried out?
+- What are the ethical implications of AI?
+  - Sir, what are your views about regulating the use of AI?
+  - What do you say about the future of human on ai dependence
 
 ## Comments
 
