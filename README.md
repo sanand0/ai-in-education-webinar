@@ -16,6 +16,14 @@ Here is material from the webinar:
 - [Questions asked in the chat](#questions)
 - [Comments in the chat](#comments)
 
+Here is material *generated* by [NotebookLM](https://notebooklm.google.com/notebook/44782cbd-a954-4f3b-9b32-952d68553498) from the webinar:
+
+- [Podcast of the webinar](https://notebooklm.google.com/notebook/44782cbd-a954-4f3b-9b32-952d68553498/audio). 15 minutes.
+- [Briefing Document](notebook.md#briefing-document)
+- [Detailed Overview](notebook.md#detailed-overview)
+- [FAQ](notebook.md#faq)
+- [Study Guide](notebook.md#study-guide)
+
 ## Transcript
 
 > Clicking the thumbnails takes you to the relevant timestamp in the video.
